@@ -8,7 +8,7 @@ Here, you will find an in-depth exploration of various datasets that showcase my
 ## Overview
 This portfolio features a collection of projects where I have applied data analysis and visualization techniques to extract meaningful insights. Each project highlights different aspects of my expertise, from data cleaning and manipulation to creating engaging visualizations.
 
-## Projects
+## :computer: Projects
 
 **Project 1: [Project Title]**
 
@@ -28,7 +28,7 @@ Description: A brief overview of the project and its objectives.
 Tools Used: Python, Tableau, etc.
 Key Findings: Summary of insights or results.
 
-## Skills Highlighted
+## :muscle: Skills Highlighted
 
 SQL: Data querying and manipulation.
 Python: Data analysis, web scraping, and machine learning.
