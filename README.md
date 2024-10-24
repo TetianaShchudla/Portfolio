@@ -34,7 +34,7 @@ SQL: Data querying and manipulation.
 Python: Data analysis, web scraping, and machine learning.
 Tableau & Power BI: Creating interactive visualizations.
 
-## Get in Touch
+## 📮 Get in Touch
 I hope you enjoy exploring my findings! If you have any questions or would like to discuss my work further, feel free to reach out.
 
 --------------------------------------------------
