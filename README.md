@@ -1,7 +1,7 @@
 
-# Welcome to my [Portfolio Projects page](https://tetianashchudla.github.io/Portfolio.github.io/)!
+# :wave: Welcome to my Portfolio Projects page!
 
-Hello, and welcome to my Portfolio Projects page! 
+Hello, and welcome to my [Portfolio Projects page](https://tetianashchudla.github.io/Portfolio/)! 
 
 Here, you will find an in-depth exploration of various datasets that showcase my skills in __SQL__, __Python__, __Tableau__, __Power BI__, and more.
 
