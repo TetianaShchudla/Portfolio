@@ -1,22 +1,16 @@
+# 👋 Welcome to My Portfolio!  
 
-# :wave: Welcome to my Portfolio Projects page!
+Hello, and thank you for stopping by my [Portfolio Projects page](https://tetianashchudla.github.io/Portfolio/)!
 
-Hello, and welcome to my [Portfolio Projects page](https://tetianashchudla.github.io/Portfolio/)! 
+🚀 This is where I dive deep into data, turning raw information into actionable insights using **SQL**, **Python**, **Power BI**, and more.  
 
-Here, you will find an in-depth exploration of various datasets that showcase my skills in __SQL__, __Python__, __Power BI__ and more.
+## 📈 What You’ll Find  
+Explore a curated selection of projects that demonstrate my passion for data analytics and visualization. Each project reflects a different facet of my skills – from transforming messy datasets into clean, structured information to crafting compelling visual stories.  
 
-## 📊 Overview
-This portfolio features a collection of projects where I have applied data analysis and visualization techniques to extract meaningful insights. Each project highlights different aspects of my expertise, from data cleaning and manipulation to creating engaging visualizations.
+## 🔧 Skills in Action  
+- **SQL** – Advanced data querying and transformation  
+- **Python** – Data analysis, automation, web scraping, and machine learning  
+- **Tableau & Power BI** – Interactive dashboards that bring data to life  
 
-## :muscle: Skills Highlighted
-
-- __SQL__: Data querying and manipulation.
-- __Python__: Data analysis, web scraping, and machine learning.
-- __Tableau & Power BI__: Creating interactive visualizations.
-
-## 📮 Get in Touch
-I hope you enjoy exploring my findings! If you have any questions or would like to discuss my work further, feel free to reach out.
-
---------------------------------------------------
-
-Thank you for visiting my portfolio!
+## 📬 Let's Connect  
+I’d love to hear your thoughts! Whether you have questions, feedback, or are curious about my work, feel free to reach out.  
