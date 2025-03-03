@@ -1,6 +1,6 @@
 # 👋 Welcome to My Portfolio!  
 
-Hello, and thank you for stopping by my [Portfolio Projects page](https://tetianashchudla.github.io/Portfolio/)!
+### Hello, and thank you for stopping by my [Portfolio Projects page](https://tetianashchudla.github.io/Portfolio/)!
 
 🚀 This is where I dive deep into data, turning raw information into actionable insights using **SQL**, **Python**, **Power BI**, and more.  
 
